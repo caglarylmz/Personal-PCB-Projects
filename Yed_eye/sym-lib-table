@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Yed_eye-rescue)(type Legacy)(uri ${KIPRJMOD}/Yed_eye-rescue.lib)(options "")(descr ""))
+)
